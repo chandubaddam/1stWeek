@@ -1,0 +1,106 @@
+1488079316950	geckodriver	INFO	Listening on 127.0.0.1:57193
+1488079319025	mozprofile::profile	INFO	Using profile path C:\Users\chandu\AppData\Local\Temp\rust_mozprofile.rf413odr4Cel
+1488079319042	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488079319063	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57199
+1488079321639	Marionette	INFO	Listening on port 57199
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488137227808	geckodriver	INFO	Listening on 127.0.0.1:60605
+1488137229709	mozprofile::profile	INFO	Using profile path C:\Users\chandu\AppData\Local\Temp\rust_mozprofile.ZS3ZWQHanC2S
+1488137229743	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488137229762	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60611
+1488137232117	Marionette	INFO	Listening on port 60611
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1488239817136	geckodriver	INFO	Listening on 127.0.0.1:62814
+1488239819208	mozprofile::profile	INFO	Using profile path C:\Users\chandu\AppData\Local\Temp\rust_mozprofile.J1ylD1VhbwBy
+1488239819243	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488239819329	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62820
+1488239823077	Marionette	INFO	Listening on port 62820
+[NPAPI 8436] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488240373010	geckodriver	INFO	Listening on 127.0.0.1:62924
+1488240374752	mozprofile::profile	INFO	Using profile path C:\Users\chandu\AppData\Local\Temp\rust_mozprofile.44rdgpPyAHBe
+1488240374859	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488240374875	geckodriver::marionette	INFO	Connecting to Marionette on localhost:62930
+1488240377881	Marionette	INFO	Listening on port 62930
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x88002E,name=PHal::Msg_DisableScreenConfigurationNotifications) Channel closing: too late to send/recv, messages will be lost
+
+[Child 3392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3392] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+fox\firefox.exe
+1488240615588	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63044
+1488240618450	Marionette	INFO	Listening on port 63044
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+[Child 592] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A011D,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2E0045,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4A00C3,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1488242425088	geckodriver	INFO	Listening on 127.0.0.1:63426
+1488242427099	mozprofile::profile	INFO	Using profile path C:\Users\chandu\AppData\Local\Temp\rust_mozprofile.TjWqc6UeTTsO
+1488242427141	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488242427165	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63432
+1488242429843	Marionette	INFO	Listening on port 63432
+1488242436904	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 2548] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2548] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+O	Connecting to Marionette on localhost:63502
+1488242638124	Marionette	INFO	Listening on port 63502
+1488242645534	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 4000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4000] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488242732235	geckodriver	INFO	Listening on 127.0.0.1:63550
+1488242734237	mozprofile::profile	INFO	Using profile path C:\Users\chandu\AppData\Local\Temp\rust_mozprofile.VXbuQpGpkYYv
+1488242734274	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488242734303	geckodriver::marionette	INFO	Connecting to Marionette on localhost:63556
+1488242736784	Marionette	INFO	Listening on port 63556
+1488242745800	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 2996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1488950356197	geckodriver	INFO	Listening on 127.0.0.1:60308
+1488950358136	mozprofile::profile	INFO	Using profile path C:\Users\chandu\AppData\Local\Temp\rust_mozprofile.XvjnIc9nTVSS
+1488950358159	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+1488950358184	geckodriver::marionette	INFO	Connecting to Marionette on localhost:60316
+1488950360898	Marionette	INFO	Listening on port 60316
+1488950374804	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 5508] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5508] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w32-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Invalid port. Exiting...
